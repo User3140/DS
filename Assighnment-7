@@ -1,0 +1,27 @@
+Assighnment-7
+ 
+
+create web service - 
+
+Assighnment7
+   -MyCalculatorWebService
+     -ADD OPERATION
+
+
+BUILD + DEPLOY + TEST SERVICE
+----------------------------------------------------
+
+
+Create New Project  
+ - CalculatorWebServiceClient  
+     *index.html
+      *myServlet
+
+----------------------------------------------------
+
+drag drop all method to servlet
+
+double num1 , num2;
+ num1 = DoubleParseDouble(request.getParameter("number1"));
+
+out.print(addition(num1, num2));
